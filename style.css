@@ -21,7 +21,10 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
-    background-color: rgb(56, 75, 51);
+    background-color: rgb(49, 66, 45);
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .nav-links {
@@ -50,4 +53,12 @@ header {
 #items {
     margin: 30px;
     line-height: 40px;
+}
+
+.p p{
+    float: right;
+}
+
+#primero {
+    margin-top: 100px;
 }
