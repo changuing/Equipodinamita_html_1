@@ -27,6 +27,10 @@ header {
     width: 100%;
 }
 
+header h3 {
+    color: rgb(226, 43, 43);
+}
+
 .nav-links {
     list-style: none;
 }
